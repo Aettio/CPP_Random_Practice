@@ -9,7 +9,7 @@ int main()
 	cout << "Enter your code " << endl;
 	cin >> code;
 	cout << "Your code is " << code << endl;
-	if (code == 5670750)
+	if (code == 171717)
 	{
 		cout << "Password is already used" << endl;
 	}
